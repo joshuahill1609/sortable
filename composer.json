@@ -1,0 +1,14 @@
+{
+    "name": "jjh/sortable",
+    "description": "A package for sorting models in Laravel.",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josh Hill",
+            "email": "josh@wisetail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
